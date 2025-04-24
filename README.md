@@ -49,3 +49,5 @@ The ERD showcases how tables like products, categories, variations, colors, and 
    ```sql
    CREATE DATABASE ecommerce_db;
    USE ecommerce_db;
+
+## Group Members 

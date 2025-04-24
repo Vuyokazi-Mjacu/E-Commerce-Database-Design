@@ -15,7 +15,7 @@ This project contains the structured SQL schema for a comprehensive e-commerce s
 
 The ERD showcases how tables like products, categories, variations, colors, and sizes are interlinked.
 
-![ERD Diagram](Ecommerce databases.png) 
+[ERD Diagram](Ecommerce databases.png) 
 
 > Generated using [View ERD on Lucidchart](https://lucid.app/lucidchart/b4a385f3-a94a-447a-9102-b7a744540ddf/edit?view_items=gAW.t~0RQXyP&invitationId=inv_82171060-b64c-4468-8248-ed2a0601ac5e)  
 

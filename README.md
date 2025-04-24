@@ -53,5 +53,5 @@ The ERD showcases how tables like products, categories, variations, colors, and 
 ## Group Members 
 - Vuyokazi Mjacu
 - Mercy Jepkosgei
--
+- Philip Kyalo
 

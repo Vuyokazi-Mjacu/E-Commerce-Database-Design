@@ -51,3 +51,7 @@ The ERD showcases how tables like products, categories, variations, colors, and 
    USE ecommerce_db;
 
 ## Group Members 
+- Vuyokazi Mjacu
+- Mercy Jepkosgei
+-
+

@@ -49,11 +49,12 @@ The ERD showcases how tables like products, categories, variations, colors, and 
 2. Create the database:
 
    ```sql
-   CREATE DATABASE ecommerce_db;
-   USE ecommerce_db;
+   CREATE DATABASE ecommerce;
+   USE ecommerce;
 
 ## Group Members 
 - Vuyokazi Mjacu
 - Mercy Jepkosgei
 - Philip Kyalo
+- Collins Kiprotich
 

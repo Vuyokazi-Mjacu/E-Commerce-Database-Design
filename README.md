@@ -56,4 +56,5 @@ The ERD showcases how tables like products, categories, variations, colors, and 
 - Mercy Jepkosgei
 - Philip Kyalo
 - Collins Kiprotich
+- Christine kabuga
 

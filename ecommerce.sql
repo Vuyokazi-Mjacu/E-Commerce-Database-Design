@@ -1,3 +1,4 @@
+CREATE ecommerce_db;
 USE ecommerce_db;
 
 CREATE TABLE brand (

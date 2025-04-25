@@ -1,5 +1,5 @@
-CREATE ecommerce_db;
-USE ecommerce_db;
+CREATE ecommerce;
+USE ecommerce;
 
 CREATE TABLE brand (
     brand_id INT AUTO_INCREMENT PRIMARY KEY,

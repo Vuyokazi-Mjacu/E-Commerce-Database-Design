@@ -9,6 +9,7 @@ This project contains the structured SQL schema for a comprehensive e-commerce s
 
 - `ecommerce.sql`: Contains all `CREATE TABLE` statements with relationships, primary/foreign keys, and constraints.
 
+- `ecommerce databases.png`: Contains the `ERD diagram` displaying entities, primary/foreign keys, and relationshipss.
 ---
 
 ## 🧩 Entity Relationship Diagram (ERD)
@@ -44,13 +45,11 @@ The ERD showcases how tables like products, categories, variations, colors, and 
 ---
 
 ## 🚀 How to Run
+✔️ Clone the repository:
 
-1. Open your MySQL Workbench or preferred SQL IDE
-2. Create the database:
-
-   ```sql
-   CREATE DATABASE ecommerce;
-   USE ecommerce;
+    git clone https://github.com/Vuyokazi-Mjacu/E-Commerce-Database-Design.git
+    
+ ✔️Open your MySQL Workbench or preferred SQL IDE
 
 ## Group Members 
 - Vuyokazi Mjacu
